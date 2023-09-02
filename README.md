@@ -1,6 +1,5 @@
 - 👋 Hi, I’m karvynyoo
-- 👀 I’m interested in software engineering
-- 🌱 I’m currently learning NLP
+- 👀 Working as a full stack software engineer
 
 <!---
 karvynyoo/karvynyoo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
